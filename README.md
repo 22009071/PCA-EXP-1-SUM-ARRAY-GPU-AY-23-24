@@ -1,6 +1,6 @@
 # PCA: EXP-1  SUM ARRAY GPU
-### Name: k.sai vinay
-### Reg.No : 212221040069
+### Name: kabilan T
+### Reg.No : 212222230059
 ### Exp.No : 01
 ### Date: 
 <h1> <align=center> SUM ARRAY ON HOST AND DEVICE </h3>
